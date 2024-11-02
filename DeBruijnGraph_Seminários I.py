@@ -14,7 +14,6 @@ import sys
 
 sys.setrecursionlimit(15500)
 
-import psutil
 import platform
 import psutil
 import platform
