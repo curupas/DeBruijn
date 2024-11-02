@@ -71,9 +71,9 @@ Complexidade O(E), onde E é o número de arestas.
 
 [7] DNA Animation by Drew Berry and Etsuko Uno. https://www.youtube.com/watch?v=7Hk9jct2ozY 
 
-[8] A Survey on De Bruijn Sequences. https://kishen19.github.io/assets/files/projects/A%20survey%20on%20De_Bruijn_Sequences. pdf 
+[8] A Survey on De Bruijn Sequences. https://kishen19.github.io/assets/files/projects/A%20survey%20on%20De_Bruijn_Sequences.pdf 
 
-[9] An Eulerian Path Approach to DNA fragment assembly. Pavel A. Pevz ner, Haixu Tang, and Michael S. Waterman. https://www.pnas.org/ doi/epdf/10.1073/pnas.171285098
+[9] An Eulerian Path Approach to DNA fragment assembly. Pavel A. Pevz ner, Haixu Tang, and Michael S. Waterman. https://www.pnas.org/doi/epdf/10.1073/pnas.171285098
 
 
 
