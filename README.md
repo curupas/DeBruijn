@@ -40,4 +40,18 @@ Concatene os k-mers do caminho Euleriano para reconstruir a sequência original
 
 ![image](https://github.com/user-attachments/assets/a713304e-e2c1-45a7-8fff-80b182402f20)
 
+## Algoritmo de Hierholzer
+
+O algoritmo de Carl Hierholzer encontra um ciclo euleriano num grafo se todos os vértices têm o mesmo número de arestas entrando e saindo, que é o que esperamos que aconteça com nosso trecho de DNA. Complexidade O(E), onde E sendo o número de arestas.
+
+Escolha um vértice inicial em um grafo com todas as arestas ainda não percorridas.
+
+ Siga um ciclo: Continue caminhando através de arestas não percorridas até retornar ao ponto de partida, formando um ciclo.
+
+ Procure arestas não visitadas: Se houver arestas não percorridas, escolha um vértice dentro do ciclo que já foi formado e inicie um novo ciclo a partir dele, percorrendo as arestas restantes.
+
+ Combine os ciclos: Cada novo ciclo é integrado ao ciclo anterior até que todas as arestas do grafo sejam percorridas. 
+
+
+
 
