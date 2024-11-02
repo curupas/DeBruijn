@@ -1,4 +1,4 @@
-# DeBruijn
+# Sequência de De Bruijn
 De Bruijn para as massas!
 
 Em Combinatória, uma Sequência de De Bruijn de ordem n em um alfabeto A de tamanho k é uma sequência cíclica em que cada string 
@@ -7,8 +7,14 @@ Esta sequência é geralmente denotada por B(k, n).
 
 ![image](https://github.com/user-attachments/assets/50b7aec9-9c75-4c57-978b-e4ec428e9c81)
 
-Um grafo de Bruijn é uma estrutura matemática que representa sobreposições entre substrings (k-mers) de uma sequência. É construído 
-de tal forma que captura todas as possíveis sobreposições de comprimento k−1 entre k-mers de uma sequência.
+Um grafo de De Bruijn é uma estrutura matemática que representa sobreposições entre substrings (k-mers) de uma sequência. É construído 
+de tal forma que captura todas as possíveis sobreposições de comprimento k−1 entre k-mers de uma sequência. Grafos de De Bruijn são conexos e tem grau par e por conseguinte, segundo o Teorema de Euler, possuem um circuito eulerinano.
+
+## Teorema de Euler sobre Grafos
+
+Um grafo conexo possui um circuito euleriano (um caminho que começa e termina no mesmo vértice e percorre cada aresta exatamente uma vez) se, e somente se, todos os seus vértices têm grau par.
+
+Um grafo conexo possui um caminho euleriano (um caminho que percorre cada aresta exatamente uma vez, mas não necessariamente começa e termina no mesmo vértice) se, e somente se, exatamente dois de seus vértices têm grau ímpar.
 
 # Uso de Grafos de De Bruijn para Sequenciamento de DNA
 
