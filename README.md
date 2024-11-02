@@ -60,6 +60,15 @@ Complexidade O(E), onde E é o número de arestas.
 
 4. Combine os ciclos: Cada novo ciclo é integrado ao ciclo anterior até que todas as arestas do grafo sejam percorridas.
 
+# Considerações Adicionais
+
+- Para construção do caminho euleriano existem outros algoritmos além do algoritmo de Hierholzer, como o algoritmo de Fleury, de Veblen, dentre outros. 
+
+- Para o sequenciamento efetivo de DNA técnicas adicionais precisam ser consideradas: para corrigir erros de sequenciamento, repetição de k-mers etc. 
+
+- Cuidadosa escolha do tamanho de k deve ser feita: muito pequena dará origem a repetições e muito grande pode dar origem a múltiplos circuitos ou caminhos. Contudo, pequenos k-mers podem ser utilizados para se estudar mutações, por exemplo.
+
+
 
 # Referências
 
