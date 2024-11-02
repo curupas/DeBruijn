@@ -8,7 +8,7 @@ Esta sequência é geralmente denotada por B(k, n).
 ![image](https://github.com/user-attachments/assets/50b7aec9-9c75-4c57-978b-e4ec428e9c81)
 
 Um grafo de De Bruijn é uma estrutura matemática que representa sobreposições entre substrings (k-mers) de uma sequência. É construído 
-de tal forma que captura todas as possíveis sobreposições de comprimento k−1 entre k-mers de uma sequência. Grafos de De Bruijn são conexos e tem grau par e por conseguinte, segundo o Teorema de Euler, possuem um circuito eulerinano.
+de tal forma que captura todas as possíveis sobreposições de comprimento k−1 entre k-mers de uma sequência. Grafos de De Bruijn são conexos e tem grau par e por conseguinte, segundo o **Teorema de Euler**, possuem um circuito euleriano.
 
 ## Teorema de Euler sobre Grafos
 
