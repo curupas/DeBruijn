@@ -10,7 +10,7 @@ Esta sequência é geralmente denotada por B(k, n).
 Um grafo de Bruijn é uma estrutura matemática que representa sobreposições entre substrings (k-mers) de uma sequência. É construído 
 de tal forma que captura todas as possíveis sobreposições de comprimento k−1 entre k-mers de uma sequência.
 
-# Uso de Grafos de DeBruijn para Sequenciamento de DNA
+# Uso de Grafos de De Bruijn para Sequenciamento de DNA
 
 ## Passos para Criar um Grafo de De Bruijn
 
