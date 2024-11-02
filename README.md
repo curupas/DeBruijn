@@ -57,7 +57,7 @@ Complexidade O(E), onde E é o número de arestas.
 
 # Referências
 
-[1] Jacob Bower. 18.312: 2011. DOI: Algebraic Combinatorics- Lecture 21. http://pi.math.cornell.edu/~levine/18.312/ alg-comb-lecture-21.pdf. 
+[1] Jacob Bower. 18.312: 2011. DOI: Algebraic Combinatorics- Lecture 21. http://pi.math.cornell.edu/~levine/18.312/alg-comb-lecture-21.pdf. 
 
 [2] Zerbino DR, Birney E. Velvet: algorithms for de novo short read assem bly using De Bruijn graphs. Genome Res. 2008 May;18(5):821-9. DOI: 10.1101/gr.074492.107. Epub 2008 Mar 18. PMID: 18349386; PMCID: PMC2336801. 
 
@@ -67,11 +67,11 @@ Complexidade O(E), onde E é o número de arestas.
 
 [5] Do DNA à Proteina. https://www.youtube.com/watch?v=gG7uCskUOrA 
 
-[6] Síntese Proteica- Transcrição e Tradução do DNA. https://www. youtube.com/watch?v=JbzM3wtWOUU 
+[6] Síntese Proteica- Transcrição e Tradução do DNA. https://www.youtube.com/watch?v=JbzM3wtWOUU 
 
-[7] DNA Animation by Drew Berry and Etsuko Uno. https://www. youtube.com/watch?v=7Hk9jct2ozY 
+[7] DNA Animation by Drew Berry and Etsuko Uno. https://www.youtube.com/watch?v=7Hk9jct2ozY 
 
-[8] A Survey on De Bruijn Sequences. https://kishen19.github.io/ assets/files/projects/A%20survey%20on%20De_Bruijn_Sequences. pdf 
+[8] A Survey on De Bruijn Sequences. https://kishen19.github.io/assets/files/projects/A%20survey%20on%20De_Bruijn_Sequences. pdf 
 
 [9] An Eulerian Path Approach to DNA fragment assembly. Pavel A. Pevz ner, Haixu Tang, and Michael S. Waterman. https://www.pnas.org/ doi/epdf/10.1073/pnas.171285098
 
